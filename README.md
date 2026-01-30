@@ -62,16 +62,13 @@ npm run dev
 
 ## c. Scripts de base de datos
 
-1. Crear una base de datos en SQL Server.
+1. Ejecutar los scripts ubicados en la carpeta /Base de Datos:
 
-2. Ejecutar los scripts ubicados en la carpeta /database:
-
-- Script de creación de tablas.
+- Script de creación de la base de datos, las tablas y el rellanado con ejemplos en DocumentoIdentificación.
 
 - Script de stored procedures.
 
-- Script de inserción de datos de ejemplo para la tabla DocumentoIdentidad.
 
-3. Verificar que los documentos de identidad se encuentren activos para su correcto consumo desde el frontend.
+2. Verificar que los documentos de identidad se encuentren activos para su correcto consumo desde el frontend.
 
 
