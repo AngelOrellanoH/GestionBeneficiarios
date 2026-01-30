@@ -1,0 +1,6 @@
+@GestionBeneficiario_BackendAPI_HostAddress = http://localhost:5233
+
+GET {{GestionBeneficiario_BackendAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
