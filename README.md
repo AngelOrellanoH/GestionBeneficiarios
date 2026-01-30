@@ -22,7 +22,7 @@ Enero 2026
 
 1. Ingresar a la carpeta del backend:
 ```bash
-cd backend
+cd GestionBeneficiario_BackendAPI
 ```
 2. Configurar la cadena de conexión a SQL Server en el archivo 
 
@@ -43,7 +43,7 @@ dotnet run
 1. Ingresar a la carpeta del frontend:
 ```bash
 
-cd frontend
+cd GestionBeneficiarioFrontend
 ```
 
 2. Instalar dependencias del proyecto:
